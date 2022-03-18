@@ -1,0 +1,21 @@
+.centralizar{
+    text-align: center;
+}
+.tm-logo2{
+    width: 600px;
+    height: 300px;
+}
+.position-img{
+    float: right;
+
+}
+.position-img2{
+    position: absolute;
+    right: 0px;
+}
+.texto-tela{
+    width: 50%;
+}
+.position-texto{
+    float: left;
+}
